@@ -29,3 +29,7 @@ It allows you to add, update, delete, and mark tasks as complete — all while s
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/harshdangi261-dotcom/TaskTracker.git
+
+2. **Run the following command:**
+   ```bash
+   cd backend-projects/task-tracker
