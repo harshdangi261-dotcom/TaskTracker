@@ -32,4 +32,4 @@ It allows you to add, update, delete, and mark tasks as complete — all while s
 
 2. **Run the following command:**
    ```bash
-   cd backend-projects/task-tracker
+   cd TaskTracker
