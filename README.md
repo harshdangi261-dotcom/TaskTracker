@@ -37,4 +37,9 @@ It allows you to add, update, delete, and mark tasks as complete — all while s
 
 - GitHub Repository: [TaskTracker](https://github.com/harshdangi261-dotcom/TaskTracker)
 - Roadmap.sh Project Page: [TaskTracker on Roadmap](https://roadmap.sh/projects/task-tracker)
+4. ## 🧑‍💻 Author
+
+**Harsh Dangi**  
+Aspiring Backend Developer | Passionate about building Java-based applications and APIs
+
 
